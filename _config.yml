@@ -21,11 +21,11 @@ github_username:  skillerhero
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: skillerhero
+#instagram_username: skillerhero
 linkedin_username: skillerhero
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: rafaelleonestrada1357
+youtube_username: channel/UCio8YZPyLAtfjVfCK6C5ooA
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -33,7 +33,6 @@ linkedin_username: skillerhero
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
