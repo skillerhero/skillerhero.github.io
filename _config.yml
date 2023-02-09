@@ -9,7 +9,7 @@ version: 2
 name: Rafael León Estrada
 title: Computer Engineering Student
 email: rle16@hotmail.com
-website: https://github.com/skillerhero
+#website: https://github.com/skillerhero
 
 # Dark Mode (true/false/never)
 darkmode: false
