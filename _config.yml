@@ -73,6 +73,25 @@ content:
           Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
           I made this project in order to pass a school subject. I believe it's a decent project and I could experiment a little with amazon web services, C# and MySQL. 
+      - layout: top-middle
+        title: School material app
+        #link: https://github.com/skillerhero/Missushi
+        # link_text: Project Website
+        additional_links:
+          - title:  Github repository
+            icon: fab fa-github
+            url: https://github.com/rafamiguel/read-watch
+          - title:  YouTube video
+            icon: fab fa-youtube
+            url: https://youtu.be/Nupxc5eq0yA
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+       # quote: >
+          #Restaurant reservation system project.
+        description: | # this will include new lines to allow paragraphs
+          A classmate and I developed and documented an Android app called Read and Watch which was intended to help high school students with some of their subjects providing useful documents and videos. It was made in Java for Android, using PHP for queries and MySQL as the  main database. 
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,11 +100,12 @@ content:
         title: ISTRA
         link: https://istra.com.mx/
         # link_text: boringcompany.com
-        sub_title: Auxiliar de programación
+        sub_title: Programming Assistant
         caption: January 2022 - Present
         quote: >
           We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
-        #description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
+          I usually work with ASP (vb.net) and SQL server.
 
 
   - title: Education # Title for the section
