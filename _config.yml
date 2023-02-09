@@ -32,6 +32,7 @@ linkedin_username: skillerhero
 # Additional icon links
 additional_links:
 - title: https://www.youtube.com/channel/UCio8YZPyLAtfjVfCK6C5ooA
+  url: https://www.youtube.com/channel/UCio8YZPyLAtfjVfCK6C5ooA
   icon: fab fa-brands fa-youtube
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -141,7 +142,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 
+references_title: Zapopan, Jal.
 
 # Build settings
 remote_theme: sproogen/resume-theme
