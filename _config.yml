@@ -91,7 +91,7 @@ content:
        # quote: >
           #Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
-          A classmate and I developed and documented an Android app called Read and Watch which was intended to help high school students with some of their subjects providing useful documents and videos. It was made in Java for Android, using PHP for queries and MySQL as the  main database. 
+          A classmate and I developed and documented an Android app called Read and Watch which was intended to help high school students with some of their subjects providing useful documents and videos. It was made in Java for Android, using PHP for queries and MySQL as the  main database and Firebase as an auxiliary database. 
 
 
   - title: Experience # Title for the section
@@ -106,7 +106,7 @@ content:
         quote: >
           We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
         description: | # this will include new lines to allow paragraphs
-          I usually work with ASP (vb.net) and SQL server.
+          I usually work with ASP (vb.net), C# and SQL server.
 
 
   - title: Education # Title for the section
@@ -134,8 +134,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in computer engineering some of my other interests and hobbies are:
       - Gaming
-      - Listening rock music
+      - Listening to rock music
       - Watching series
+      - Learning to play violin
 
     #Look at this cool image  
     #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
