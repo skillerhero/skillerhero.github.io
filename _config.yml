@@ -9,7 +9,6 @@ version: 2
 name: Rafael León Estrada
 title: Computer Engineering Student
 email: rle16@hotmail.com
-phone number: 3323403259
 website: https://github.com/skillerhero
 
 # Dark Mode (true/false/never)
@@ -102,7 +101,7 @@ content:
         title: ISTRA
         link: https://istra.com.mx/
         # link_text: boringcompany.com
-        sub_title: Fullstack developer
+        sub_title: Full stack developer
         caption: January 2022 - Present
         quote: >
           We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
