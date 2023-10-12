@@ -71,8 +71,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Restaurant reservation system project.
+        #quote: >
+          #Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
           I made this project in order to pass a school subject. I believe it's a decent project and I could experiment a little with amazon web services, C# and MySQL. 
       - layout: top-middle
