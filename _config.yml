@@ -101,7 +101,7 @@ content:
         title: ISTRA
         link: https://istra.com.mx/
         # link_text: boringcompany.com
-        sub_title: Programming Assistant
+        sub_title: Fullstack developer
         caption: January 2022 - Present
         quote: >
           We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
@@ -117,17 +117,16 @@ content:
         caption: Feb 2016 - Dec 2019
         sub_title: Software Development Technician
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at CETI I got the foundation of my technical knowledge. I would say that I became a hard worker during my stay at CETI.
       - layout: left
         title: Centro Universitario de Ciencias Exactas e Ingenierías
-        caption: Jan 2020 - Dec 2023
+        caption: Jan 2020 - Jun 2024
         sub_title: Computer Engineer
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Currently trying to figure out what I'm passionate about regarding computer science.
+        description: | 
+          Currently trying to figure out what I'm passionate about regarding computer science. 
 
   - title: A Little More About Me
     layout: text
