@@ -134,7 +134,7 @@ content:
       - layout: left
         title: English
         caption: Certified B2 English speaker (upper intermediate)
-      - layout: left
+      - layout: right
         title: Spanish
         caption: Native speaker
   - title: A Little More About Me
