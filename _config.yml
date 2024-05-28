@@ -130,13 +130,10 @@ content:
 
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
-    content:
-      - layout: left
-        title: English
-        caption: Certified B2 English speaker (upper intermediate)
-      - layout: right
-        title: Spanish
-        caption: Native speaker
+    content: | # this will include new lines to allow paragraphs
+      - Certified English B2 speaker (upper intermediate)
+      - Spanish Native speaker
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
