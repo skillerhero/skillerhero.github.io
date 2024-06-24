@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafael and I'm a junior software developer.
 
-  I am most skilled in: <mark>C#</mark> and <mark>MySQL</mark>
+  I am most skilled in: <mark>C#</mark>, <mark>GitHub</mark> and <mark>SQL</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -106,7 +106,7 @@ content:
         quote: >
           We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
         description: | # this will include new lines to allow paragraphs
-          I usually work with ASP (vb.net), C# and SQL server.
+          I usually work with <mark>.NET Framework (ASP.NET MVC),C#, GitHub and SQL Server.</mark>
 
 
   - title: Education # Title for the section
