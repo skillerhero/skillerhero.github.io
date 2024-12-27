@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Restaurant reservation system
+        title: Restaurant Reservation System
         #link: https://github.com/skillerhero/Missushi
         # link_text: Project Website
         additional_links:
@@ -73,25 +73,25 @@ content:
         #quote: >
           #Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
-          I made this project in order to pass a school subject. I believe it's a decent project and I could experiment a little with amazon web services, C# and MySQL. 
+          This was a school project that uses Amazon Web Services, C#, and MySQL. It provides a reservation system for a restaurant, allowing the restaurant to manage reservations and clients to make them remotely.
       - layout: top-middle
-        title: School material app
+        title: PC Components Web Crawler
         #link: https://github.com/skillerhero/Missushi
         # link_text: Project Website
         additional_links:
           - title:  Github repository
             icon: fab fa-github
-            url: https://github.com/rafamiguel/read-watch
+            url: https://github.com/skillerhero/WebCrawlerComponentesPC
           - title:  YouTube video
             icon: fab fa-youtube
-            url: https://youtu.be/Nupxc5eq0yA
+            url: https://youtu.be/LlpG3MogO-8
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
        # quote: >
           #Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
-          A classmate and I developed and documented an Android app called Read and Watch which was intended to help high school students with some of their subjects providing useful documents and videos. It was made in Java for Android, using PHP for queries and MySQL as the  main database and Firebase as an auxiliary database. 
+          In this project, I developed a web crawler that searches for a PC component on three websites. It gathers the prices from all results and saves the cheapest option from each site to a PDF, also providing the corresponding link. Additionally, it stores the information for future use, so if the program is executed again, it compares the current prices with previous ones and sends an email notification if the price has decreased.
 
 
   - title: Experience # Title for the section
@@ -103,8 +103,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Full stack developer
         caption: January 2022 - Present
-        quote: >
-          We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
+        #quote: >
+         # We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
         description: | # this will include new lines to allow paragraphs
           I usually work with <mark>.NET Framework (ASP.NET MVC),C#, GitHub and SQL Server.</mark>
 
@@ -118,7 +118,7 @@ content:
         sub_title: Software Development Technician
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          During my time at CETI I got the foundation of my technical knowledge. I would say that I became a hard worker during my stay at CETI.
+          During my time at CETI I got the foundations of my technical knowledge. I would say that I became a hard worker during my stay at CETI.
       - layout: left
         title: Centro Universitario de Ciencias Exactas e Ingenierías
         caption: Jan 2020 - Jun 2024
@@ -126,13 +126,13 @@ content:
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | 
-          I became passionate about databases and backend development. 
+          I became passionate about databases, backend development and automation. 
 
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - Certified English B2 speaker (upper intermediate)
-      - Spanish Native speaker
+      - English: B2 level (Upper Intermediate)
+      - Spanish: Native speaker
 
   - title: A Little More About Me
     layout: text
