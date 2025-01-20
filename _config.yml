@@ -106,7 +106,7 @@ content:
         #quote: >
          # We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
         description: | # this will include new lines to allow paragraphs
-          I usually work with <mark>.NET Framework (ASP.NET MVC),C#, GitHub and SQL Server.</mark>
+          I used to work with <mark>.NET Framework (ASP.NET MVC),C#, GitHub and SQL Server.</mark>
 
 
   - title: Education # Title for the section
