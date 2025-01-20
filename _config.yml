@@ -91,7 +91,7 @@ content:
        # quote: >
           #Restaurant reservation system project.
         description: | # this will include new lines to allow paragraphs
-          In this project, I developed a web crawler that searches for a PC component on three websites. It gathers the prices from all results and saves the cheapest option from each site to a PDF, also providing the corresponding link. Additionally, it stores the information for future use, so if the program is executed again, it compares the current prices with previous ones and sends an email notification if the price has decreased.
+          In this project, I developed a web crawler in <mark>python</mark> that searches for a PC component on three websites. It gathers the prices from all results and saves the cheapest option from each site to a PDF, also providing the corresponding link. Additionally, it stores the information for future use, so if the program is executed again, it compares the current prices with previous ones and sends an email notification if the price has decreased.
 
 
   - title: Experience # Title for the section
@@ -102,7 +102,7 @@ content:
         link: https://istra.com.mx/
         # link_text: boringcompany.com
         sub_title: Full stack developer
-        caption: January 2022 - Present
+        caption: January 2022 - January 2025
         #quote: >
          # We are constantly developing technological solutions that allow our clients to better manage their car insurance and make quicker decisions that allow them to make their own businesses more profitable.
         description: | # this will include new lines to allow paragraphs
